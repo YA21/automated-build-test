@@ -1,2 +1,2 @@
 # automated-build-test
-Dockerイメージの自動ビルドテスト用
+test for automated build docker image
